@@ -9,9 +9,6 @@ sprites.onOverlap(SpriteKind.Circle, SpriteKind.Circle, function (sprite, otherS
         sprite.follow(otherSprite)
     }
 })
-function get_color () {
-    color_number = (color_number + 1) % 12
-}
 function add_circle () {
     Radius = Math.randomRange(20, 60)
     info.setScore(color_number)
@@ -33,6 +30,9 @@ function make_circle (Radius: number, Color: number) {
         degrees_to_xy(Degrees, Radius, Center_x, Center_y)
         Circle_sprite.image.setPixel(Return_x, Return_y, Color)
     }
+}
+function get_color () {
+    color_number = (color_number + 1) % 12
 }
 controller.up.onEvent(ControllerButtonEvent.Repeated, function () {
     add_circle()
