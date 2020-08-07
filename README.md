@@ -1,17 +1,9 @@
-# circles-10 ![Build status badge](https://github.com/wecodemakecode/circles-10/workflows/MakeCode/badge.svg)
+# circles-blocks0 ![Build status badge](https://github.com/wecodemakecode/circles-10/workflows/MakeCode/badge.svg)
+
+Demonstrates building a circle sprite using only blocks -- no extension
 
 
-
-## Use this extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open https://arcade.makecode.com/
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for the URL of this repository and import
-
-## Edit this extension
+## Edit this blocks program
 
 To edit this repository in MakeCode.
 
