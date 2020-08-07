@@ -1,7 +1,6 @@
-# circles-blocks0 ![Build status badge](https://github.com/wecodemakecode/circles-10/workflows/MakeCode/badge.svg)
+# circles-blocks
 
 Demonstrates building a circle sprite using only blocks -- no extension
-
 
 ## Edit this blocks program
 
