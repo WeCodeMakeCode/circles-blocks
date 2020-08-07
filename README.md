@@ -1,6 +1,6 @@
 # circles-blocks
 
-Demonstrates building a circle sprite using only blocks -- no extension
+Demonstrates building a circle sprite using only MakeCode Arcade blocks -- no extension, no javascript
 
 ## Edit this blocks program
 
