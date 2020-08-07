@@ -4,7 +4,9 @@ Demonstrates building a circle sprite using only MakeCode Arcade blocks -- no ex
 
 ## How to Use
 
-Add circles by pressing Up Button
+Add circles by pressing Up Button. 
+Press UP and hold will add many circles. 
+When circles overlap one with follow the other. 
 
 ## Edit this blocks program
 
